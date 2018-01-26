@@ -1,0 +1,225 @@
+1516935377568	geckodriver	INFO	geckodriver 0.19.1
+1516935377596	geckodriver	INFO	Listening on 127.0.0.1:50145
+1516935379557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.iCnoZePObwkc"
+1516935384153	Marionette	INFO	Listening on port 50153
+1516935384154	Marionette	INFO	Listening on port 50153
+1516935384800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516935385789	Marionette	INFO	New connections will no longer be accepted
+1516935630111	geckodriver	INFO	geckodriver 0.19.1
+1516935630117	geckodriver	INFO	Listening on 127.0.0.1:50225
+1516935632183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.NaAOa2Lx4Hqy"
+1516935635670	Marionette	INFO	Listening on port 50231
+1516935635670	Marionette	INFO	Listening on port 50231
+1516935635812	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516935637782	Marionette	INFO	New connections will no longer be accepted
+1516936052557	geckodriver	INFO	geckodriver 0.19.1
+1516936052563	geckodriver	INFO	Listening on 127.0.0.1:50359
+1516936054622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.wX6KNcthhKpA"
+1516936057846	Marionette	INFO	Listening on port 50365
+1516936058009	Marionette	INFO	Listening on port 50365
+1516936058259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516936059627	Marionette	INFO	New connections will no longer be accepted
+1516936173692	geckodriver	INFO	geckodriver 0.19.1
+1516936173699	geckodriver	INFO	Listening on 127.0.0.1:50410
+1516936175760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.TmDk8v1Vc6PD"
+1516936179410	Marionette	INFO	Listening on port 50416
+1516936179426	Marionette	INFO	Listening on port 50416
+1516936179896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516936180529	Marionette	INFO	New connections will no longer be accepted
+1516936477625	geckodriver	INFO	geckodriver 0.19.1
+1516936477631	geckodriver	INFO	Listening on 127.0.0.1:50490
+1516936479701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.N48IauKzpO4D"
+1516936483039	Marionette	INFO	Listening on port 50496
+1516936483045	Marionette	INFO	Listening on port 50496
+1516936483312	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516936483734	Marionette	INFO	New connections will no longer be accepted
+1516936517818	geckodriver	INFO	geckodriver 0.19.1
+1516936517825	geckodriver	INFO	Listening on 127.0.0.1:50524
+1516936519890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.BnXR2r4a0fw0"
+1516936523239	Marionette	INFO	Listening on port 50530
+1516936523241	Marionette	INFO	Listening on port 50530
+1516936523509	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516936523974	Marionette	INFO	New connections will no longer be accepted
+1516936855194	geckodriver	INFO	geckodriver 0.19.1
+1516936855200	geckodriver	INFO	Listening on 127.0.0.1:50625
+1516936857233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.GUEHl7SAwZX0"
+1516936860431	Marionette	INFO	Listening on port 50631
+1516936860490	Marionette	INFO	Listening on port 50631
+1516936860849	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516936861572	Marionette	INFO	New connections will no longer be accepted
+1516937867563	geckodriver	INFO	geckodriver 0.19.1
+1516937867575	geckodriver	INFO	Listening on 127.0.0.1:51074
+1516937869624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.5PbjPXLGm3pE"
+1516937873123	Marionette	INFO	Listening on port 51081
+1516937873124	Marionette	INFO	Listening on port 51081
+1516937873238	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516937873673	Marionette	INFO	New connections will no longer be accepted
+1516947866657	geckodriver	INFO	geckodriver 0.19.1
+1516947866667	geckodriver	INFO	Listening on 127.0.0.1:53114
+1516947868720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.15UcMjwWWxm4"
+1516947872359	Marionette	INFO	Listening on port 53121
+1516947872361	Marionette	INFO	Listening on port 53121
+1516947872843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516947873886	Marionette	INFO	New connections will no longer be accepted
+1516948217089	geckodriver	INFO	geckodriver 0.19.1
+1516948217095	geckodriver	INFO	Listening on 127.0.0.1:53206
+1516948219143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.IK7jsr9Ca2MM"
+1516948223185	Marionette	INFO	Listening on port 53212
+1516948223190	Marionette	INFO	Listening on port 53212
+1516948223309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516948224449	Marionette	INFO	New connections will no longer be accepted
+1516950160601	geckodriver	INFO	geckodriver 0.19.1
+1516950160608	geckodriver	INFO	Listening on 127.0.0.1:53791
+1516950162664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.CVXGfrFVnEXx"
+1516950166264	Marionette	INFO	Listening on port 53798
+1516950166280	Marionette	INFO	Listening on port 53798
+1516950166403	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3&json=1&p=3&sid=1452_21088_22074&req=2&csor=2&pwd=w&cb=jQuery1102047113928058889976_1516950167185&_=1516950167187, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3csc&json=1&p=3&sid=1452_21088_22074&req=2&csor=5&pwd=w3cs&cb=jQuery1102047113928058889976_1516950167185&_=1516950167190, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3c&json=1&p=3&sid=1452_21088_22074&req=2&csor=3&pwd=w3&cb=jQuery1102047113928058889976_1516950167185&_=1516950167188, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cs&json=1&p=3&sid=1452_21088_22074&req=2&csor=4&pwd=w3c&cb=jQuery1102047113928058889976_1516950167185&_=1516950167189, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3csch&json=1&p=3&sid=1452_21088_22074&req=2&csor=6&pwd=w3csc&cb=jQuery1102047113928058889976_1516950167185&_=1516950167191, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w&json=1&p=3&sid=1452_21088_22074&req=2&csor=1&cb=jQuery1102047113928058889976_1516950167185&_=1516950167186, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cscho&json=1&p=3&sid=1452_21088_22074&req=2&csor=7&pwd=w3csch&cb=jQuery1102047113928058889976_1516950167185&_=1516950167192, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cschoo&json=1&p=3&sid=1452_21088_22074&req=2&csor=8&pwd=w3cscho&cb=jQuery1102047113928058889976_1516950167185&_=1516950167193, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cschool&json=1&p=3&sid=1452_21088_22074&req=2&csor=9&pwd=w3cschoo&cb=jQuery1102047113928058889976_1516950167185&_=1516950167194, line 1: TypeError: jQuery1102047113928058889976_1516950167185 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-878633-1, line 66: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-878633-1, line 66: unreachable code after return statement
+1516950175898	Marionette	INFO	New connections will no longer be accepted
+1516950394373	geckodriver	INFO	geckodriver 0.19.1
+1516950394379	geckodriver	INFO	Listening on 127.0.0.1:53918
+1516950396409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.QxL2DOgRIo3d"
+1516950400066	Marionette	INFO	Listening on port 53924
+1516950400072	Marionette	INFO	Listening on port 53924
+1516950400528	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cs&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=4&pwd=w3c&cb=jQuery1102028707512541636515_1516950401128&_=1516950401132, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3c&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=3&pwd=w3&cb=jQuery1102028707512541636515_1516950401128&_=1516950401131, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3csch&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=6&pwd=w3csc&cb=jQuery1102028707512541636515_1516950401128&_=1516950401134, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3csc&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=5&pwd=w3cs&cb=jQuery1102028707512541636515_1516950401128&_=1516950401133, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=2&pwd=w&cb=jQuery1102028707512541636515_1516950401128&_=1516950401130, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=1&cb=jQuery1102028707512541636515_1516950401128&_=1516950401129, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cscho&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=7&pwd=w3csch&cb=jQuery1102028707512541636515_1516950401128&_=1516950401135, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cschoo&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=8&pwd=w3cscho&cb=jQuery1102028707512541636515_1516950401128&_=1516950401136, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cschool&json=1&p=3&sid=1461_21108_18559_22159&req=2&csor=9&pwd=w3cschoo&cb=jQuery1102028707512541636515_1516950401128&_=1516950401137, line 1: TypeError: jQuery1102028707512541636515_1516950401128 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-878633-1, line 66: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-878633-1, line 66: unreachable code after return statement
+1516950409741	Marionette	INFO	New connections will no longer be accepted
+1516950766328	geckodriver	INFO	geckodriver 0.19.1
+1516950766334	geckodriver	INFO	Listening on 127.0.0.1:54058
+1516950768394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.AN4Rirho0y0v"
+1516950772155	Marionette	INFO	Listening on port 54064
+1516950772156	Marionette	INFO	Listening on port 54064
+1516950772561	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516950773322	Marionette	INFO	New connections will no longer be accepted
+1516951435479	geckodriver	INFO	geckodriver 0.19.1
+1516951435489	geckodriver	INFO	Listening on 127.0.0.1:54270
+1516951437522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.HWocZhUfDVY8"
+1516951441251	Marionette	INFO	Listening on port 54276
+1516951441509	Marionette	INFO	Listening on port 54276
+1516951441639	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=2&pwd=w&cb=jQuery110204615987373637186_1516951442186&_=1516951442188, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3sch&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=5&pwd=w3sc&cb=jQuery110204615987373637186_1516951442186&_=1516951442191, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3scho&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=6&pwd=w3sch&cb=jQuery110204615987373637186_1516951442186&_=1516951442192, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3s&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=3&pwd=w3&cb=jQuery110204615987373637186_1516951442186&_=1516951442189, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3sc&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=4&pwd=w3s&cb=jQuery110204615987373637186_1516951442186&_=1516951442190, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=1&cb=jQuery110204615987373637186_1516951442186&_=1516951442187, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3schoo&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=7&pwd=w3scho&cb=jQuery110204615987373637186_1516951442186&_=1516951442193, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3school&json=1&p=3&sid=1451_25548_21110_17001_20929&req=2&csor=8&pwd=w3schoo&cb=jQuery110204615987373637186_1516951442186&_=1516951442194, line 1: TypeError: jQuery110204615987373637186_1516951442186 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-878633-1, line 66: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-878633-1, line 66: unreachable code after return statement
+1516951450945	Marionette	INFO	New connections will no longer be accepted
+1516952078148	geckodriver	INFO	geckodriver 0.19.1
+1516952078157	geckodriver	INFO	Listening on 127.0.0.1:54462
+1516952080173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.5FgyOaUOasaV"
+1516952084171	Marionette	INFO	Listening on port 54469
+1516952084175	Marionette	INFO	Listening on port 54469
+1516952084296	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516952088038	Marionette	INFO	New connections will no longer be accepted
+1516952211430	geckodriver	INFO	geckodriver 0.19.1
+1516952211436	geckodriver	INFO	Listening on 127.0.0.1:54597
+1516952213467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.jJpPZkNWdOV0"
+1516952216991	Marionette	INFO	Listening on port 54603
+1516952216995	Marionette	INFO	Listening on port 54603
+1516952217097	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516952220956	Marionette	INFO	New connections will no longer be accepted
+1516958038265	geckodriver	INFO	geckodriver 0.19.1
+1516958038275	geckodriver	INFO	Listening on 127.0.0.1:55695
+1516958040352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.y7t4JlIqgR0w"
+1516958044073	Marionette	INFO	Listening on port 55702
+1516958044093	Marionette	INFO	Listening on port 55702
+1516958044471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958044569	Marionette	INFO	New connections will no longer be accepted
+1516958095579	geckodriver	INFO	geckodriver 0.19.1
+1516958095585	geckodriver	INFO	Listening on 127.0.0.1:55720
+1516958097634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.B5HDaGR32hF9"
+1516958101784	Marionette	INFO	Listening on port 55726
+1516958101795	Marionette	INFO	Listening on port 55726
+1516958102861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958102952	Marionette	INFO	New connections will no longer be accepted
+1516958253438	geckodriver	INFO	geckodriver 0.19.1
+1516958253444	geckodriver	INFO	Listening on 127.0.0.1:55976
+1516958255504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.cpuqpMMiW8Ow"
+1516958259185	Marionette	INFO	Listening on port 55982
+1516958259193	Marionette	INFO	Listening on port 55982
+1516958259622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958332886	Marionette	INFO	New connections will no longer be accepted
+1516958516717	geckodriver	INFO	geckodriver 0.19.1
+1516958516723	geckodriver	INFO	Listening on 127.0.0.1:56055
+1516958518801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.QcpirrjWOHEh"
+1516958522535	Marionette	INFO	Listening on port 56061
+1516958522541	Marionette	INFO	Listening on port 56061
+1516958522925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958563957	Marionette	INFO	New connections will no longer be accepted
+1516958579899	geckodriver	INFO	geckodriver 0.19.1
+1516958579905	geckodriver	INFO	Listening on 127.0.0.1:56114
+1516958581966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.50KBltBKXC46"
+1516958585655	Marionette	INFO	Listening on port 56120
+1516958585658	Marionette	INFO	Listening on port 56120
+1516958586130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958606558	Marionette	INFO	New connections will no longer be accepted
+1516958676260	geckodriver	INFO	geckodriver 0.19.1
+1516958676266	geckodriver	INFO	Listening on 127.0.0.1:56161
+1516958678313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.WeUS3Lt5QcES"
+1516958682059	Marionette	INFO	Listening on port 56167
+1516958682070	Marionette	INFO	Listening on port 56167
+1516958682451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958706040	Marionette	INFO	New connections will no longer be accepted
+1516958836952	geckodriver	INFO	geckodriver 0.19.1
+1516958836959	geckodriver	INFO	Listening on 127.0.0.1:56217
+1516958839011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.QuBolQEPzYkg"
+1516958842814	Marionette	INFO	Listening on port 56223
+1516958842816	Marionette	INFO	Listening on port 56223
+1516958843125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516958843729	Marionette	INFO	New connections will no longer be accepted
+1516958864530	geckodriver	INFO	geckodriver 0.19.1
+1516958864536	geckodriver	INFO	Listening on 127.0.0.1:56256
+1516958866613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.g7vcpiUfrJmr"
+1516958870752	Marionette	INFO	Listening on port 56262
+1516958870753	Marionette	INFO	Listening on port 56262
+1516958871835	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lenovo\AppData\Local\openvr\openvrpaths.vrpath
+1516962515225	geckodriver::marionette	ERROR	Failed to kill browser process
